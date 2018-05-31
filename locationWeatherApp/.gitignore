@@ -1,0 +1,29 @@
+# Gradle
+.gradle
+
+# Generic builds
+build/
+bin/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# IntelliJ
+.idea/
+*.iml
+
+# Git
+*.orig
+
+# Javascript builds
+build/
+build_working/
+build_output/
+node_modules/
+packages/
+bower_components/
+
+#docs
+doc/_site
